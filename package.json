@@ -1,14 +1,14 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "sushiswap-sdk",
   "license": "MIT",
   "version": "3.0.3",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "description": "🛠 An SDK for building applications on top of Sushiswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/jchancehud/uniswap-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
